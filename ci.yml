@@ -1,0 +1,7 @@
+
+---
+
+## ⚙️ Configure
+Copy and edit the environment file:
+```bash
+cp .env.example .env
